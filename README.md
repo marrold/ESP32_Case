@@ -4,7 +4,7 @@ This is currently a work in progress so your mileage may vary.
 
 ## Images
 
-SVG for the case:
+SVG for the case:  
 <img src="images/ESP32_Case.png" width="400">
 
 Top of case:  
